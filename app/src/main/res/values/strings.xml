@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="enter_female_name">Enter Female Name</string>
+    <string name="enter_male_name">Enter Male Name</string>
+    <string name="CALCULATE">Button</string>
+    <string name="todo">TODO</string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="c">C</string>
+</resources>
